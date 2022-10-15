@@ -10,3 +10,7 @@ wget, unzip, npm, node, jq
 npm install
 ./run.sh
 ```
+
+## Résultats en GSheet
+
+https://docs.google.com/spreadsheets/d/1KCyOnb4w-eN3r4iBoQnwP5phA2AATJlIoxKXOfJLvG8/edit?usp=sharing
