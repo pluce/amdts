@@ -2,7 +2,7 @@
 
 ## Dépendances
 
-wget, unzip, npm, node
+wget, unzip, npm, node, jq
 
 ## Exécution
 
