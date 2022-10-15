@@ -1,9 +1,4 @@
 const data = require('./struct_credits.json')
-let decode = str => {
-    return str.replace(/&#(\d+);/g, function (match, dec) {
-        return String.fromCharCode(dec);
-    });
-}
 var TurndownService = require('turndown')
 
 var turndownService = new TurndownService()
